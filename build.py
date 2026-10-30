@@ -159,7 +159,7 @@ def page(*, title, desc, path, body, jsonld=None, og_type="website", modified=No
 <div class="flag" aria-hidden="true"></div>
 <div class="wrap">
 <div class="top"><a class="brand" href="/">Notícias de Cabo Verde <span aria-hidden="true">★</span></a>
-<nav aria-label="Principal"><a href="/">Hoje</a><a href="/arquivo/">Arquivo</a><a href="{PUBLISHER_URL}">Explore Cabo Verde</a></nav></div>
+<nav aria-label="Principal"><a href="/">Hoje</a><a href="/arquivo/">Arquivo</a></nav></div>
 {body}
 <footer>
 <p>As principais notícias sobre Cabo Verde, resumidas todas as manhãs a partir da imprensa cabo-verdiana e internacional. Cada resumo liga ao artigo original, onde pode ler a notícia completa.</p>
